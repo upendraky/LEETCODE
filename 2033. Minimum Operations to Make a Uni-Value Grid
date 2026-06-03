@@ -1,5 +1,4 @@
 import java.util.*;
-
 class Solution {
     public int minOperations(int[][] grid, int x) {
         List<Integer> nums = new ArrayList<>();
